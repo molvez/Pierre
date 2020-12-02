@@ -1,4 +1,4 @@
-echo "# Test1" >> LISEZMOI.md
+echo "# Test1" >> TEST2.php
 git init
 git add README.md
 git commit -m "premier commit"
